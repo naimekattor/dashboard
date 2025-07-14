@@ -4,6 +4,9 @@ import React from 'react';
 
 // Dashboard component
 const Billing = () => {
+
+    
+    
     // Sample data for components
     const invoices = [
         { date: 'March, 01 2020', id: '#MS-415646', amount: '$180', type: 'PDF' },

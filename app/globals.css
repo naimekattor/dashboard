@@ -26,3 +26,6 @@ body {
 .gradient-border {
   border-image: linear-gradient(to right, #582CFF, #151515) 1;
 }
+.active{
+  background: #1a1f37;
+}
